@@ -1,0 +1,11 @@
+cache/
+docs/
+help/
+locale/
+public/
+plugins/
+ojs-2.3.7_to_2.4.2.patch
+ojs2-2.4.2.0.patch
+paymentmanager.patch
+reviewerviewpatch.diff
+

@@ -1,0 +1,35 @@
+--- lib/pkp/classes/payment/PaymentManager.inc.php	2012-03-15 10:19:54.000000000 -0700
++++ lib/pkp/classes/payment/PaymentManager.inc.php	2013-03-04 15:53:53.000000000 -0800
+@@ -15,27 +15,22 @@
+  */
+ 
+ class PaymentManager {
++	/** @var $request PKPRequest */
++	var $request;
++
+ 	/**
+ 	 * Constructor
+ 	 * @param $request PKPRequest
+ 	 */
+-	function PaymentManager($request) {
++	function PaymentManager(&$request) {
+ 		$this->request =& $request;
+ 	}
+ 
+ 	/**
+-	 * Get the payment manager.
+-	 */
+-	function &getManager() {
+-		// must be implemented by sub-classes
+-		assert(false);
+-	}
+-
+-	/**
+ 	 * Queue a payment for receipt.
+ 	 * @param $queuedPayment object
+ 	 * @param $expiryDate date optional
+-	 * @return int Queued payment ID for new payment
++	 * @return mixed Queued payment ID for new payment, or false if fails
+ 	 */
+ 	function queuePayment(&$queuedPayment, $expiryDate = null) {
+ 		if (!$this->isConfigured()) return false;

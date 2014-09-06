@@ -1,0 +1,562 @@
+[28-Aug-2014 10:57:41 UTC] ojs2: 404 Not Found
+[02-Sep-2014 06:04:50 UTC] PHP Fatal error:  Call to undefined method AuthorSubmission::getHighlightClass() in /var/www/csojs/cache/t_compile/%%C6^C6D^C6D958A8%%active.tpl.php on line 28
+[02-Sep-2014 06:46:28 UTC] OJS SMTPMailer: Did not receive expected 250 or 251
+[02-Sep-2014 07:15:02 UTC] OJS SMTPMailer: Did not receive expected 250 or 251
+[02-Sep-2014 09:38:09 UTC] PHP Fatal error:  Call to undefined method AuthorSubmission::getHighlightClass() in /var/www/csojs/cache/t_compile/%%C6^C6D^C6D958A8%%active.tpl.php on line 28
+[02-Sep-2014 09:51:19 UTC] PHP Fatal error:  Call to undefined method AuthorSubmission::getHighlightClass() in /var/www/csojs/cache/t_compile/%%C6^C6D^C6D958A8%%active.tpl.php on line 28
+[02-Sep-2014 09:52:49 UTC] ojs2 has produced an error
+  Message: CAUGHT EXCEPTION: Object of class AuthorSubmission could not be converted to string
+  In file: /var/www/csojs/cache/t_compile/%%C6^C6D^C6D958A8%%active.tpl.php
+  At line: 28
+  Stacktrace: 
+  Server info:
+   OS: Linux
+   PHP Version: 5.4.6-1ubuntu1.5
+   Apache Version: Apache/2.2.22 (Ubuntu)
+   DB Driver: mysql
+   DB server version: 5.5.35-0ubuntu0.12.10.2
+[02-Sep-2014 09:52:49 UTC] ojs2 has produced an error
+  Message: CAUGHT EXCEPTION: Object of class AuthorSubmission could not be converted to string
+  In file: /var/www/csojs/cache/t_compile/%%C6^C6D^C6D958A8%%active.tpl.php
+  At line: 28
+  Stacktrace: 
+  Server info:
+   OS: Linux
+   PHP Version: 5.4.6-1ubuntu1.5
+   Apache Version: Apache/2.2.22 (Ubuntu)
+   DB Driver: mysql
+   DB server version: 5.5.35-0ubuntu0.12.10.2
+[02-Sep-2014 09:52:49 UTC] ojs2 has produced an error
+  Message: CAUGHT EXCEPTION: Object of class AuthorSubmission could not be converted to string
+  In file: /var/www/csojs/cache/t_compile/%%C6^C6D^C6D958A8%%active.tpl.php
+  At line: 28
+  Stacktrace: 
+  Server info:
+   OS: Linux
+   PHP Version: 5.4.6-1ubuntu1.5
+   Apache Version: Apache/2.2.22 (Ubuntu)
+   DB Driver: mysql
+   DB server version: 5.5.35-0ubuntu0.12.10.2
+[02-Sep-2014 09:52:49 UTC] ojs2 has produced an error
+  Message: CAUGHT EXCEPTION: Object of class AuthorSubmission could not be converted to string
+  In file: /var/www/csojs/cache/t_compile/%%C6^C6D^C6D958A8%%active.tpl.php
+  At line: 28
+  Stacktrace: 
+  Server info:
+   OS: Linux
+   PHP Version: 5.4.6-1ubuntu1.5
+   Apache Version: Apache/2.2.22 (Ubuntu)
+   DB Driver: mysql
+   DB server version: 5.5.35-0ubuntu0.12.10.2
+[02-Sep-2014 09:52:49 UTC] ojs2 has produced an error
+  Message: CAUGHT EXCEPTION: Object of class AuthorSubmission could not be converted to string
+  In file: /var/www/csojs/cache/t_compile/%%C6^C6D^C6D958A8%%active.tpl.php
+  At line: 28
+  Stacktrace: 
+  Server info:
+   OS: Linux
+   PHP Version: 5.4.6-1ubuntu1.5
+   Apache Version: Apache/2.2.22 (Ubuntu)
+   DB Driver: mysql
+   DB server version: 5.5.35-0ubuntu0.12.10.2
+[02-Sep-2014 09:53:47 UTC] ojs2 has produced an error
+  Message: CAUGHT EXCEPTION: Object of class AuthorSubmission could not be converted to string
+  In file: /var/www/csojs/cache/t_compile/%%C6^C6D^C6D958A8%%active.tpl.php
+  At line: 28
+  Stacktrace: 
+  Server info:
+   OS: Linux
+   PHP Version: 5.4.6-1ubuntu1.5
+   Apache Version: Apache/2.2.22 (Ubuntu)
+   DB Driver: mysql
+   DB server version: 5.5.35-0ubuntu0.12.10.2
+[02-Sep-2014 09:53:47 UTC] ojs2 has produced an error
+  Message: CAUGHT EXCEPTION: Object of class AuthorSubmission could not be converted to string
+  In file: /var/www/csojs/cache/t_compile/%%C6^C6D^C6D958A8%%active.tpl.php
+  At line: 28
+  Stacktrace: 
+  Server info:
+   OS: Linux
+   PHP Version: 5.4.6-1ubuntu1.5
+   Apache Version: Apache/2.2.22 (Ubuntu)
+   DB Driver: mysql
+   DB server version: 5.5.35-0ubuntu0.12.10.2
+[02-Sep-2014 09:53:47 UTC] ojs2 has produced an error
+  Message: CAUGHT EXCEPTION: Object of class AuthorSubmission could not be converted to string
+  In file: /var/www/csojs/cache/t_compile/%%C6^C6D^C6D958A8%%active.tpl.php
+  At line: 28
+  Stacktrace: 
+  Server info:
+   OS: Linux
+   PHP Version: 5.4.6-1ubuntu1.5
+   Apache Version: Apache/2.2.22 (Ubuntu)
+   DB Driver: mysql
+   DB server version: 5.5.35-0ubuntu0.12.10.2
+[02-Sep-2014 09:53:47 UTC] ojs2 has produced an error
+  Message: CAUGHT EXCEPTION: Object of class AuthorSubmission could not be converted to string
+  In file: /var/www/csojs/cache/t_compile/%%C6^C6D^C6D958A8%%active.tpl.php
+  At line: 28
+  Stacktrace: 
+  Server info:
+   OS: Linux
+   PHP Version: 5.4.6-1ubuntu1.5
+   Apache Version: Apache/2.2.22 (Ubuntu)
+   DB Driver: mysql
+   DB server version: 5.5.35-0ubuntu0.12.10.2
+[02-Sep-2014 09:53:47 UTC] ojs2 has produced an error
+  Message: CAUGHT EXCEPTION: Object of class AuthorSubmission could not be converted to string
+  In file: /var/www/csojs/cache/t_compile/%%C6^C6D^C6D958A8%%active.tpl.php
+  At line: 28
+  Stacktrace: 
+  Server info:
+   OS: Linux
+   PHP Version: 5.4.6-1ubuntu1.5
+   Apache Version: Apache/2.2.22 (Ubuntu)
+   DB Driver: mysql
+   DB server version: 5.5.35-0ubuntu0.12.10.2
+[02-Sep-2014 09:53:52 UTC] ojs2 has produced an error
+  Message: CAUGHT EXCEPTION: Object of class AuthorSubmission could not be converted to string
+  In file: /var/www/csojs/cache/t_compile/%%C6^C6D^C6D958A8%%active.tpl.php
+  At line: 28
+  Stacktrace: 
+  Server info:
+   OS: Linux
+   PHP Version: 5.4.6-1ubuntu1.5
+   Apache Version: Apache/2.2.22 (Ubuntu)
+   DB Driver: mysql
+   DB server version: 5.5.35-0ubuntu0.12.10.2
+[02-Sep-2014 09:53:52 UTC] ojs2 has produced an error
+  Message: CAUGHT EXCEPTION: Object of class AuthorSubmission could not be converted to string
+  In file: /var/www/csojs/cache/t_compile/%%C6^C6D^C6D958A8%%active.tpl.php
+  At line: 28
+  Stacktrace: 
+  Server info:
+   OS: Linux
+   PHP Version: 5.4.6-1ubuntu1.5
+   Apache Version: Apache/2.2.22 (Ubuntu)
+   DB Driver: mysql
+   DB server version: 5.5.35-0ubuntu0.12.10.2
+[02-Sep-2014 09:53:52 UTC] ojs2 has produced an error
+  Message: CAUGHT EXCEPTION: Object of class AuthorSubmission could not be converted to string
+  In file: /var/www/csojs/cache/t_compile/%%C6^C6D^C6D958A8%%active.tpl.php
+  At line: 28
+  Stacktrace: 
+  Server info:
+   OS: Linux
+   PHP Version: 5.4.6-1ubuntu1.5
+   Apache Version: Apache/2.2.22 (Ubuntu)
+   DB Driver: mysql
+   DB server version: 5.5.35-0ubuntu0.12.10.2
+[02-Sep-2014 09:53:52 UTC] ojs2 has produced an error
+  Message: CAUGHT EXCEPTION: Object of class AuthorSubmission could not be converted to string
+  In file: /var/www/csojs/cache/t_compile/%%C6^C6D^C6D958A8%%active.tpl.php
+  At line: 28
+  Stacktrace: 
+  Server info:
+   OS: Linux
+   PHP Version: 5.4.6-1ubuntu1.5
+   Apache Version: Apache/2.2.22 (Ubuntu)
+   DB Driver: mysql
+   DB server version: 5.5.35-0ubuntu0.12.10.2
+[02-Sep-2014 09:53:52 UTC] ojs2 has produced an error
+  Message: CAUGHT EXCEPTION: Object of class AuthorSubmission could not be converted to string
+  In file: /var/www/csojs/cache/t_compile/%%C6^C6D^C6D958A8%%active.tpl.php
+  At line: 28
+  Stacktrace: 
+  Server info:
+   OS: Linux
+   PHP Version: 5.4.6-1ubuntu1.5
+   Apache Version: Apache/2.2.22 (Ubuntu)
+   DB Driver: mysql
+   DB server version: 5.5.35-0ubuntu0.12.10.2
+[02-Sep-2014 09:53:52 UTC] ojs2 has produced an error
+  Message: CAUGHT EXCEPTION: Object of class AuthorSubmission could not be converted to string
+  In file: /var/www/csojs/cache/t_compile/%%C6^C6D^C6D958A8%%active.tpl.php
+  At line: 28
+  Stacktrace: 
+  Server info:
+   OS: Linux
+   PHP Version: 5.4.6-1ubuntu1.5
+   Apache Version: Apache/2.2.22 (Ubuntu)
+   DB Driver: mysql
+   DB server version: 5.5.35-0ubuntu0.12.10.2
+[02-Sep-2014 09:53:52 UTC] ojs2 has produced an error
+  Message: CAUGHT EXCEPTION: Object of class AuthorSubmission could not be converted to string
+  In file: /var/www/csojs/cache/t_compile/%%C6^C6D^C6D958A8%%active.tpl.php
+  At line: 28
+  Stacktrace: 
+  Server info:
+   OS: Linux
+   PHP Version: 5.4.6-1ubuntu1.5
+   Apache Version: Apache/2.2.22 (Ubuntu)
+   DB Driver: mysql
+   DB server version: 5.5.35-0ubuntu0.12.10.2
+[02-Sep-2014 09:53:52 UTC] ojs2 has produced an error
+  Message: CAUGHT EXCEPTION: Object of class AuthorSubmission could not be converted to string
+  In file: /var/www/csojs/cache/t_compile/%%C6^C6D^C6D958A8%%active.tpl.php
+  At line: 28
+  Stacktrace: 
+  Server info:
+   OS: Linux
+   PHP Version: 5.4.6-1ubuntu1.5
+   Apache Version: Apache/2.2.22 (Ubuntu)
+   DB Driver: mysql
+   DB server version: 5.5.35-0ubuntu0.12.10.2
+[02-Sep-2014 09:53:52 UTC] ojs2 has produced an error
+  Message: CAUGHT EXCEPTION: Object of class AuthorSubmission could not be converted to string
+  In file: /var/www/csojs/cache/t_compile/%%C6^C6D^C6D958A8%%active.tpl.php
+  At line: 28
+  Stacktrace: 
+  Server info:
+   OS: Linux
+   PHP Version: 5.4.6-1ubuntu1.5
+   Apache Version: Apache/2.2.22 (Ubuntu)
+   DB Driver: mysql
+   DB server version: 5.5.35-0ubuntu0.12.10.2
+[02-Sep-2014 09:53:52 UTC] ojs2 has produced an error
+  Message: CAUGHT EXCEPTION: Object of class AuthorSubmission could not be converted to string
+  In file: /var/www/csojs/cache/t_compile/%%C6^C6D^C6D958A8%%active.tpl.php
+  At line: 28
+  Stacktrace: 
+  Server info:
+   OS: Linux
+   PHP Version: 5.4.6-1ubuntu1.5
+   Apache Version: Apache/2.2.22 (Ubuntu)
+   DB Driver: mysql
+   DB server version: 5.5.35-0ubuntu0.12.10.2
+[02-Sep-2014 09:53:52 UTC] ojs2 has produced an error
+  Message: CAUGHT EXCEPTION: Object of class AuthorSubmission could not be converted to string
+  In file: /var/www/csojs/cache/t_compile/%%C6^C6D^C6D958A8%%active.tpl.php
+  At line: 28
+  Stacktrace: 
+  Server info:
+   OS: Linux
+   PHP Version: 5.4.6-1ubuntu1.5
+   Apache Version: Apache/2.2.22 (Ubuntu)
+   DB Driver: mysql
+   DB server version: 5.5.35-0ubuntu0.12.10.2
+[02-Sep-2014 09:53:52 UTC] ojs2 has produced an error
+  Message: CAUGHT EXCEPTION: Object of class AuthorSubmission could not be converted to string
+  In file: /var/www/csojs/cache/t_compile/%%C6^C6D^C6D958A8%%active.tpl.php
+  At line: 28
+  Stacktrace: 
+  Server info:
+   OS: Linux
+   PHP Version: 5.4.6-1ubuntu1.5
+   Apache Version: Apache/2.2.22 (Ubuntu)
+   DB Driver: mysql
+   DB server version: 5.5.35-0ubuntu0.12.10.2
+[02-Sep-2014 09:53:52 UTC] ojs2 has produced an error
+  Message: CAUGHT EXCEPTION: Object of class AuthorSubmission could not be converted to string
+  In file: /var/www/csojs/cache/t_compile/%%C6^C6D^C6D958A8%%active.tpl.php
+  At line: 28
+  Stacktrace: 
+  Server info:
+   OS: Linux
+   PHP Version: 5.4.6-1ubuntu1.5
+   Apache Version: Apache/2.2.22 (Ubuntu)
+   DB Driver: mysql
+   DB server version: 5.5.35-0ubuntu0.12.10.2
+[02-Sep-2014 09:53:52 UTC] ojs2 has produced an error
+  Message: CAUGHT EXCEPTION: Object of class AuthorSubmission could not be converted to string
+  In file: /var/www/csojs/cache/t_compile/%%C6^C6D^C6D958A8%%active.tpl.php
+  At line: 28
+  Stacktrace: 
+  Server info:
+   OS: Linux
+   PHP Version: 5.4.6-1ubuntu1.5
+   Apache Version: Apache/2.2.22 (Ubuntu)
+   DB Driver: mysql
+   DB server version: 5.5.35-0ubuntu0.12.10.2
+[02-Sep-2014 09:53:52 UTC] ojs2 has produced an error
+  Message: CAUGHT EXCEPTION: Object of class AuthorSubmission could not be converted to string
+  In file: /var/www/csojs/cache/t_compile/%%C6^C6D^C6D958A8%%active.tpl.php
+  At line: 28
+  Stacktrace: 
+  Server info:
+   OS: Linux
+   PHP Version: 5.4.6-1ubuntu1.5
+   Apache Version: Apache/2.2.22 (Ubuntu)
+   DB Driver: mysql
+   DB server version: 5.5.35-0ubuntu0.12.10.2
+[02-Sep-2014 09:54:02 UTC] ojs2 has produced an error
+  Message: CAUGHT EXCEPTION: Object of class AuthorSubmission could not be converted to string
+  In file: /var/www/csojs/cache/t_compile/%%C6^C6D^C6D958A8%%active.tpl.php
+  At line: 28
+  Stacktrace: 
+  Server info:
+   OS: Linux
+   PHP Version: 5.4.6-1ubuntu1.5
+   Apache Version: Apache/2.2.22 (Ubuntu)
+   DB Driver: mysql
+   DB server version: 5.5.35-0ubuntu0.12.10.2
+[02-Sep-2014 09:54:02 UTC] ojs2 has produced an error
+  Message: CAUGHT EXCEPTION: Object of class AuthorSubmission could not be converted to string
+  In file: /var/www/csojs/cache/t_compile/%%C6^C6D^C6D958A8%%active.tpl.php
+  At line: 28
+  Stacktrace: 
+  Server info:
+   OS: Linux
+   PHP Version: 5.4.6-1ubuntu1.5
+   Apache Version: Apache/2.2.22 (Ubuntu)
+   DB Driver: mysql
+   DB server version: 5.5.35-0ubuntu0.12.10.2
+[02-Sep-2014 09:54:02 UTC] ojs2 has produced an error
+  Message: CAUGHT EXCEPTION: Object of class AuthorSubmission could not be converted to string
+  In file: /var/www/csojs/cache/t_compile/%%C6^C6D^C6D958A8%%active.tpl.php
+  At line: 28
+  Stacktrace: 
+  Server info:
+   OS: Linux
+   PHP Version: 5.4.6-1ubuntu1.5
+   Apache Version: Apache/2.2.22 (Ubuntu)
+   DB Driver: mysql
+   DB server version: 5.5.35-0ubuntu0.12.10.2
+[02-Sep-2014 09:54:02 UTC] ojs2 has produced an error
+  Message: CAUGHT EXCEPTION: Object of class AuthorSubmission could not be converted to string
+  In file: /var/www/csojs/cache/t_compile/%%C6^C6D^C6D958A8%%active.tpl.php
+  At line: 28
+  Stacktrace: 
+  Server info:
+   OS: Linux
+   PHP Version: 5.4.6-1ubuntu1.5
+   Apache Version: Apache/2.2.22 (Ubuntu)
+   DB Driver: mysql
+   DB server version: 5.5.35-0ubuntu0.12.10.2
+[02-Sep-2014 09:54:02 UTC] ojs2 has produced an error
+  Message: CAUGHT EXCEPTION: Object of class AuthorSubmission could not be converted to string
+  In file: /var/www/csojs/cache/t_compile/%%C6^C6D^C6D958A8%%active.tpl.php
+  At line: 28
+  Stacktrace: 
+  Server info:
+   OS: Linux
+   PHP Version: 5.4.6-1ubuntu1.5
+   Apache Version: Apache/2.2.22 (Ubuntu)
+   DB Driver: mysql
+   DB server version: 5.5.35-0ubuntu0.12.10.2
+[02-Sep-2014 09:54:07 UTC] ojs2 has produced an error
+  Message: CAUGHT EXCEPTION: Object of class AuthorSubmission could not be converted to string
+  In file: /var/www/csojs/cache/t_compile/%%C6^C6D^C6D958A8%%active.tpl.php
+  At line: 28
+  Stacktrace: 
+  Server info:
+   OS: Linux
+   PHP Version: 5.4.6-1ubuntu1.5
+   Apache Version: Apache/2.2.22 (Ubuntu)
+   DB Driver: mysql
+   DB server version: 5.5.35-0ubuntu0.12.10.2
+[02-Sep-2014 09:54:07 UTC] ojs2 has produced an error
+  Message: CAUGHT EXCEPTION: Object of class AuthorSubmission could not be converted to string
+  In file: /var/www/csojs/cache/t_compile/%%C6^C6D^C6D958A8%%active.tpl.php
+  At line: 28
+  Stacktrace: 
+  Server info:
+   OS: Linux
+   PHP Version: 5.4.6-1ubuntu1.5
+   Apache Version: Apache/2.2.22 (Ubuntu)
+   DB Driver: mysql
+   DB server version: 5.5.35-0ubuntu0.12.10.2
+[02-Sep-2014 09:54:07 UTC] ojs2 has produced an error
+  Message: CAUGHT EXCEPTION: Object of class AuthorSubmission could not be converted to string
+  In file: /var/www/csojs/cache/t_compile/%%C6^C6D^C6D958A8%%active.tpl.php
+  At line: 28
+  Stacktrace: 
+  Server info:
+   OS: Linux
+   PHP Version: 5.4.6-1ubuntu1.5
+   Apache Version: Apache/2.2.22 (Ubuntu)
+   DB Driver: mysql
+   DB server version: 5.5.35-0ubuntu0.12.10.2
+[02-Sep-2014 09:54:07 UTC] ojs2 has produced an error
+  Message: CAUGHT EXCEPTION: Object of class AuthorSubmission could not be converted to string
+  In file: /var/www/csojs/cache/t_compile/%%C6^C6D^C6D958A8%%active.tpl.php
+  At line: 28
+  Stacktrace: 
+  Server info:
+   OS: Linux
+   PHP Version: 5.4.6-1ubuntu1.5
+   Apache Version: Apache/2.2.22 (Ubuntu)
+   DB Driver: mysql
+   DB server version: 5.5.35-0ubuntu0.12.10.2
+[02-Sep-2014 09:54:07 UTC] ojs2 has produced an error
+  Message: CAUGHT EXCEPTION: Object of class AuthorSubmission could not be converted to string
+  In file: /var/www/csojs/cache/t_compile/%%C6^C6D^C6D958A8%%active.tpl.php
+  At line: 28
+  Stacktrace: 
+  Server info:
+   OS: Linux
+   PHP Version: 5.4.6-1ubuntu1.5
+   Apache Version: Apache/2.2.22 (Ubuntu)
+   DB Driver: mysql
+   DB server version: 5.5.35-0ubuntu0.12.10.2
+[02-Sep-2014 09:54:33 UTC] ojs2 has produced an error
+  Message: CAUGHT EXCEPTION: Object of class AuthorSubmission could not be converted to string
+  In file: /var/www/csojs/cache/t_compile/%%C6^C6D^C6D958A8%%active.tpl.php
+  At line: 28
+  Stacktrace: 
+  Server info:
+   OS: Linux
+   PHP Version: 5.4.6-1ubuntu1.5
+   Apache Version: Apache/2.2.22 (Ubuntu)
+   DB Driver: mysql
+   DB server version: 5.5.35-0ubuntu0.12.10.2
+[02-Sep-2014 09:54:33 UTC] ojs2 has produced an error
+  Message: CAUGHT EXCEPTION: Object of class AuthorSubmission could not be converted to string
+  In file: /var/www/csojs/cache/t_compile/%%C6^C6D^C6D958A8%%active.tpl.php
+  At line: 28
+  Stacktrace: 
+  Server info:
+   OS: Linux
+   PHP Version: 5.4.6-1ubuntu1.5
+   Apache Version: Apache/2.2.22 (Ubuntu)
+   DB Driver: mysql
+   DB server version: 5.5.35-0ubuntu0.12.10.2
+[02-Sep-2014 09:54:33 UTC] ojs2 has produced an error
+  Message: CAUGHT EXCEPTION: Object of class AuthorSubmission could not be converted to string
+  In file: /var/www/csojs/cache/t_compile/%%C6^C6D^C6D958A8%%active.tpl.php
+  At line: 28
+  Stacktrace: 
+  Server info:
+   OS: Linux
+   PHP Version: 5.4.6-1ubuntu1.5
+   Apache Version: Apache/2.2.22 (Ubuntu)
+   DB Driver: mysql
+   DB server version: 5.5.35-0ubuntu0.12.10.2
+[02-Sep-2014 09:54:33 UTC] ojs2 has produced an error
+  Message: CAUGHT EXCEPTION: Object of class AuthorSubmission could not be converted to string
+  In file: /var/www/csojs/cache/t_compile/%%C6^C6D^C6D958A8%%active.tpl.php
+  At line: 28
+  Stacktrace: 
+  Server info:
+   OS: Linux
+   PHP Version: 5.4.6-1ubuntu1.5
+   Apache Version: Apache/2.2.22 (Ubuntu)
+   DB Driver: mysql
+   DB server version: 5.5.35-0ubuntu0.12.10.2
+[02-Sep-2014 09:54:33 UTC] ojs2 has produced an error
+  Message: CAUGHT EXCEPTION: Object of class AuthorSubmission could not be converted to string
+  In file: /var/www/csojs/cache/t_compile/%%C6^C6D^C6D958A8%%active.tpl.php
+  At line: 28
+  Stacktrace: 
+  Server info:
+   OS: Linux
+   PHP Version: 5.4.6-1ubuntu1.5
+   Apache Version: Apache/2.2.22 (Ubuntu)
+   DB Driver: mysql
+   DB server version: 5.5.35-0ubuntu0.12.10.2
+[02-Sep-2014 09:54:37 UTC] ojs2 has produced an error
+  Message: CAUGHT EXCEPTION: Object of class AuthorSubmission could not be converted to string
+  In file: /var/www/csojs/cache/t_compile/%%C6^C6D^C6D958A8%%active.tpl.php
+  At line: 28
+  Stacktrace: 
+  Server info:
+   OS: Linux
+   PHP Version: 5.4.6-1ubuntu1.5
+   Apache Version: Apache/2.2.22 (Ubuntu)
+   DB Driver: mysql
+   DB server version: 5.5.35-0ubuntu0.12.10.2
+[02-Sep-2014 09:54:37 UTC] ojs2 has produced an error
+  Message: CAUGHT EXCEPTION: Object of class AuthorSubmission could not be converted to string
+  In file: /var/www/csojs/cache/t_compile/%%C6^C6D^C6D958A8%%active.tpl.php
+  At line: 28
+  Stacktrace: 
+  Server info:
+   OS: Linux
+   PHP Version: 5.4.6-1ubuntu1.5
+   Apache Version: Apache/2.2.22 (Ubuntu)
+   DB Driver: mysql
+   DB server version: 5.5.35-0ubuntu0.12.10.2
+[02-Sep-2014 09:54:37 UTC] ojs2 has produced an error
+  Message: CAUGHT EXCEPTION: Object of class AuthorSubmission could not be converted to string
+  In file: /var/www/csojs/cache/t_compile/%%C6^C6D^C6D958A8%%active.tpl.php
+  At line: 28
+  Stacktrace: 
+  Server info:
+   OS: Linux
+   PHP Version: 5.4.6-1ubuntu1.5
+   Apache Version: Apache/2.2.22 (Ubuntu)
+   DB Driver: mysql
+   DB server version: 5.5.35-0ubuntu0.12.10.2
+[02-Sep-2014 09:54:37 UTC] ojs2 has produced an error
+  Message: CAUGHT EXCEPTION: Object of class AuthorSubmission could not be converted to string
+  In file: /var/www/csojs/cache/t_compile/%%C6^C6D^C6D958A8%%active.tpl.php
+  At line: 28
+  Stacktrace: 
+  Server info:
+   OS: Linux
+   PHP Version: 5.4.6-1ubuntu1.5
+   Apache Version: Apache/2.2.22 (Ubuntu)
+   DB Driver: mysql
+   DB server version: 5.5.35-0ubuntu0.12.10.2
+[02-Sep-2014 09:54:37 UTC] ojs2 has produced an error
+  Message: CAUGHT EXCEPTION: Object of class AuthorSubmission could not be converted to string
+  In file: /var/www/csojs/cache/t_compile/%%C6^C6D^C6D958A8%%active.tpl.php
+  At line: 28
+  Stacktrace: 
+  Server info:
+   OS: Linux
+   PHP Version: 5.4.6-1ubuntu1.5
+   Apache Version: Apache/2.2.22 (Ubuntu)
+   DB Driver: mysql
+   DB server version: 5.5.35-0ubuntu0.12.10.2
+[02-Sep-2014 09:59:21 UTC] PHP Fatal error:  Call to undefined method AuthorSubmission::getHighlightClass() in /var/www/csojs/cache/t_compile/%%C6^C6D^C6D958A8%%active.tpl.php on line 28
+[02-Sep-2014 10:05:54 UTC] PHP Fatal error:  Call to undefined method AuthorSubmission::getHighlightClass() in /var/www/csojs/cache/t_compile/%%C6^C6D^C6D958A8%%active.tpl.php on line 28
+[02-Sep-2014 10:07:45 UTC] PHP Fatal error:  Call to a member function wasEmpty() on a non-object in /var/www/csojs/cache/t_compile/%%C6^C6D^C6D958A8%%active.tpl.php on line 124
+[02-Sep-2014 10:08:41 UTC] PHP Fatal error:  Call to undefined method AuthorSubmission::getHighlightClass() in /var/www/csojs/cache/t_compile/%%C6^C6D^C6D958A8%%active.tpl.php on line 28
+[02-Sep-2014 10:13:59 UTC] PHP Fatal error:  Call to undefined method AuthorSubmission::getHighlightClass() in /var/www/csojs/cache/t_compile/%%C6^C6D^C6D958A8%%active.tpl.php on line 28
+[02-Sep-2014 10:14:49 UTC] PHP Fatal error:  Call to undefined method AuthorSubmission::getHighlightClass() in /var/www/csojs/cache/t_compile/%%C6^C6D^C6D958A8%%active.tpl.php on line 28
+[02-Sep-2014 10:15:04 UTC] PHP Fatal error:  Call to undefined method AuthorSubmission::getHighlightClass() in /var/www/csojs/cache/t_compile/%%C6^C6D^C6D958A8%%active.tpl.php on line 28
+[02-Sep-2014 10:15:09 UTC] PHP Fatal error:  Call to undefined method AuthorSubmission::getHighlightClass() in /var/www/csojs/cache/t_compile/%%C6^C6D^C6D958A8%%active.tpl.php on line 28
+[02-Sep-2014 10:15:09 UTC] PHP Fatal error:  Call to undefined method AuthorSubmission::getHighlightClass() in /var/www/csojs/cache/t_compile/%%C6^C6D^C6D958A8%%active.tpl.php on line 28
+[02-Sep-2014 10:15:09 UTC] PHP Fatal error:  Call to undefined method AuthorSubmission::getHighlightClass() in /var/www/csojs/cache/t_compile/%%C6^C6D^C6D958A8%%active.tpl.php on line 28
+[03-Sep-2014 10:24:55 UTC] ojs2 has produced an error
+  Message: WARNING: fsockopen(): unable to connect to localhost:25 (Connection refused)
+  In file: /var/www/csojs/lib/pkp/classes/mail/SMTPMailer.inc.php
+  At line: 164
+  Stacktrace: 
+  Server info:
+   OS: Linux
+   PHP Version: 5.4.6-1ubuntu1.5
+   Apache Version: Apache/2.2.22 (Ubuntu)
+   DB Driver: mysql
+   DB server version: 5.5.35-0ubuntu0.12.10.2
+[06-Sep-2014 11:15:09 UTC] PHP Fatal error:  Call to undefined method AuthorSubmission::getHighlightClass() in /var/www/csojs/cache/t_compile/%%C6^C6D^C6D958A8%%active.tpl.php on line 28
+[06-Sep-2014 11:20:54 UTC] PHP Fatal error:  Call to a member function wasEmpty() on a non-object in /var/www/csojs/cache/t_compile/%%C6^C6D^C6D958A8%%active.tpl.php on line 124
+[06-Sep-2014 11:21:03 UTC] PHP Fatal error:  Call to a member function wasEmpty() on a non-object in /var/www/csojs/cache/t_compile/%%C6^C6D^C6D958A8%%active.tpl.php on line 122
+[06-Sep-2014 11:21:08 UTC] PHP Fatal error:  Call to a member function wasEmpty() on a non-object in /var/www/csojs/cache/t_compile/%%C6^C6D^C6D958A8%%active.tpl.php on line 122
+[06-Sep-2014 11:21:41 UTC] PHP Fatal error:  Call to a member function wasEmpty() on a non-object in /var/www/csojs/cache/t_compile/%%C6^C6D^C6D958A8%%active.tpl.php on line 122
+[06-Sep-2014 11:26:52 UTC] PHP Fatal error:  Call to undefined method AuthorSubmission::getHighlightClass() in /var/www/csojs/cache/t_compile/%%C6^C6D^C6D958A8%%active.tpl.php on line 28
+[06-Sep-2014 11:57:54 UTC] ojs2 has produced an error
+  Message: USER ERROR: Smarty error: [in author/index.tpl line 35]: syntax error: unexpected {elseif} (Smarty_Compiler.class.php, line 486)
+  In file: /var/www/csojs/lib/pkp/lib/smarty/Smarty.class.php
+  At line: 1093
+  Stacktrace: 
+  Server info:
+   OS: Linux
+   PHP Version: 5.4.6-1ubuntu1.5
+   Apache Version: Apache/2.2.22 (Ubuntu)
+   DB Driver: mysql
+   DB server version: 5.5.35-0ubuntu0.12.10.2
+[06-Sep-2014 11:57:54 UTC] PHP Parse error:  syntax error, unexpected 'elseif' (T_ELSEIF) in /var/www/csojs/cache/t_compile/%%08^084^0849D27C%%index.tpl.php on line 46
+[06-Sep-2014 11:58:15 UTC] ojs2 has produced an error
+  Message: USER ERROR: Smarty error: [in author/index.tpl line 44]: syntax error: unclosed tag \{elseif} (opened line 37). (Smarty_Compiler.class.php, line 317)
+  In file: /var/www/csojs/lib/pkp/lib/smarty/Smarty.class.php
+  At line: 1093
+  Stacktrace: 
+  Server info:
+   OS: Linux
+   PHP Version: 5.4.6-1ubuntu1.5
+   Apache Version: Apache/2.2.22 (Ubuntu)
+   DB Driver: mysql
+   DB server version: 5.5.35-0ubuntu0.12.10.2
+[06-Sep-2014 11:58:24 UTC] ojs2 has produced an error
+  Message: USER ERROR: Smarty error: [in author/index.tpl line 44]: syntax error: unclosed tag \{elseif} (opened line 37). (Smarty_Compiler.class.php, line 317)
+  In file: /var/www/csojs/lib/pkp/lib/smarty/Smarty.class.php
+  At line: 1093
+  Stacktrace: 
+  Server info:
+   OS: Linux
+   PHP Version: 5.4.6-1ubuntu1.5
+   Apache Version: Apache/2.2.22 (Ubuntu)
+   DB Driver: mysql
+   DB server version: 5.5.35-0ubuntu0.12.10.2

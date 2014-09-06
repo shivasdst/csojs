@@ -1,0 +1,16 @@
+diff --git a/lib/pkp/classes/payment/PaymentManager.inc.php b/lib/pkp/classes/payment/PaymentManager.inc.php
+index 3bd013c..3f263f3 100644
+--- a/lib/pkp/classes/payment/PaymentManager.inc.php
++++ b/lib/pkp/classes/payment/PaymentManager.inc.php
+@@ -17,10 +17,8 @@
+ class PaymentManager {
+ 	/**
+ 	 * Constructor
+-	 * @param $request PKPRequest
+ 	 */
+-	function PaymentManager($request) {
+-		$this->request =& $request;
++	function PaymentManager() {
+ 	}
+ 
+ 	/**
