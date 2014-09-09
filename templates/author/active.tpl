@@ -102,9 +102,11 @@
 {/if}
 </table>
 
+{if $highlightClass}
 <div id="notes">
 <h4>{translate key="common.notes"}</h4>
 {translate key="editor.submissionReview.notes"}
 </div>
+{/if}
 </div>
 
