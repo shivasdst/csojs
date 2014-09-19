@@ -18,7 +18,7 @@
 }
 .composite-ui>.ui-tabs ul.main-tabs a {
   color:#cccccc;
-  font-size:1.5em;
+  font-size:1.6em;
   padding:0.2em 1em;
 }
 .composite-ui>.ui-tabs div.main-tabs {
@@ -53,7 +53,7 @@
   margin:0;
   padding:0;
   background:inherit;
-  font-size:120%;
+  font-size:130%;
 }
 #fullScreenButton {
   float:right;
@@ -215,7 +215,7 @@
   width:100%;
   padding:5px;
   overflow-y:auto;
-  font-size:1.3em;
+  font-size:1.4em;
 }
 #rawCitationEditingExpertOptions .option-block { padding-left:30px; }
 #rawCitationWithMarkup div.value { margin-right:25px; }
@@ -227,7 +227,7 @@
   margin-left:0;
 }
 #generatedCitationWithMarkup span { cursor:default; }
-#citationEditor.composite-ui div.two-pane>div.right-pane .citation-comparison span { font-size:1.3em; }
+#citationEditor.composite-ui div.two-pane>div.right-pane .citation-comparison span { font-size:1.4em; }
 #citationEditor.composite-ui div.two-pane>div.right-pane .citation-comparison-deletion {
   color:red;
   text-decoration:line-through;
@@ -242,8 +242,8 @@
 #authorQueryResult { float:left; }
 #citationImprovementResultsBlock .options-head.active { margin-top:40px; }
 #citationImprovementResultsBlock div.grid td {
-  font-size:1em;
-  line-height:1.3em;
+  font-size:1.1em;
+  line-height:1.4em;
 }
 #citationImprovementResultsBlock div.grid td.citation-source-action-cell { text-align:right; }
 #citationImprovementResultsBlock div.grid tr.citation-source-action-row td {
@@ -306,7 +306,7 @@
 .pkp_help {
   color:#999999;
   font-weight:normal;
-  font-size:80%;
+  font-size:90%;
   padding:10px;
 }
 .pkp_helpers_black_bg { background-color:black; }
@@ -687,7 +687,7 @@ a.sprite.merge_users:hover:before { background-position:-312px -24px; }
   padding-bottom:10px;
 }
 .action_links a {
-  font-size:90%;
+  font-size:95%;
   margin-right:20px;
   float:left;
 }
@@ -695,7 +695,7 @@ a.sprite.merge_users:hover:before { background-position:-312px -24px; }
 @import url("styles/linkActions.less");
 table.pkp_listing td { padding:0.25em 1.5em 0.25em 0.5em; }
 table.pkp_listing tr.heading td, table.pkp_listing td.heading {
-  font-size:0.85em;
+  font-size:0.95em;
   text-transform:uppercase;
   font-weight:normal;
   padding:0.75em 1.5em 1em 0.5em;
@@ -706,17 +706,17 @@ table.pkp_listing td.nodata {
 }
 table.pkp_listing td.headseparator {
   border-top:1px dotted #000000;
-  font-size:0.1em;
+  font-size:0.2em;
   line-height:1%;
 }
 table.pkp_listing td.endseparator {
   border-top:1px dotted #000000;
-  font-size:0.25em;
+  font-size:0.35em;
   line-height:10%;
 }
 table.pkp_listing td.separator {
   border-top:1px dotted #ddddd0;
-  font-size:0.1em;
+  font-size:0.2em;
   line-height:1%;
 }
 .pkp_controllers_fontController_smallFont {
@@ -755,7 +755,7 @@ table.pkp_listing td.separator {
 span.pkp_form_error {
   color:#990000;
   font-weight:bold;
-  font-size:1em;
+  font-size:1.1em;
 }
 .pkp_form_error_list a { color:#990000; }
 .pkp_form .pkp_formArea p {
@@ -770,7 +770,7 @@ span.pkp_form_error {
 }
 .pkp_form fieldset.inline { margin:0px 0px; }
 .pkp_form legend {
-  font-size:110%;
+  font-size:120%;
   padding:10px 0 10px 0;
 }
 .pkp_form div.section {
@@ -786,16 +786,16 @@ span.pkp_form_error {
 .pkp_form span.pkp_form_success {
   color:#009900;
   font-weight:bold;
-  font-size:1em;
+  font-size:1.1em;
 }
 .pkp_form span label.sub_label {
-  font-size:80%;
+  font-size:90%;
   color:#999999;
   font-weight:normal;
   padding:2px 0 4px 0;
 }
 .pkp_form input {
-  font-size:90%;
+  font-size:95%;
   width:99%;
   border:1px solid #cccccc;
   padding:2px;
@@ -803,7 +803,7 @@ span.pkp_form_error {
 }
 .pkp_form input:focus { outline:none; }
 .pkp_form textarea {
-  font-size:90%;
+  font-size:95%;
   width:99%;
   border:1px solid #cccccc;
   padding:2px;
@@ -812,7 +812,7 @@ span.pkp_form_error {
 }
 .pkp_form textarea:focus { outline:none; }
 .pkp_form select {
-  font-size:90%;
+  font-size:95%;
   width:99%;
   width:100%;
   border:1px solid #cccccc;
@@ -883,7 +883,7 @@ span.pkp_form_error {
   display:none;
 }
 .pkp_form label.locale {
-  font-size:1px;
+  font-size:1.2px;
   text-indent:-9999px;
 }
 .pkp_form .localizable {
@@ -1027,7 +1027,7 @@ div.pkp_controllers_grid thead th {
 div.pkp_controllers_grid thead th:first-child { padding-left:40px; }
 div.pkp_controllers_grid td {
   text-align:center;
-  font-size:12px;
+  font-size:14px;
   vertical-align:middle;
   padding:0px;
 }
@@ -1039,7 +1039,7 @@ div.pkp_controllers_grid td.first_column {
 div.pkp_controllers_grid td.category { display:table-row; }
 div.pkp_controllers_grid tr.no_border, div.pkp_controllers_grid td.no_border { border:none !important; }
 div.pkp_controllers_grid .default_category_style td {
-  font-size:120%;
+  font-size:130%;
   text-transform:uppercase;
   font-family:"Courier New", Courier, mono;
 }
@@ -1069,7 +1069,7 @@ div.pkp_controllers_grid .options {
   height:24px;
   vertical-align:middle;
 }
-div.pkp_controllers_grid .options a { font-size:90%; }
+div.pkp_controllers_grid .options a { font-size:95%; }
 div.pkp_controllers_grid .options a:before { margin-left:20px; }
 div.pkp_controllers_grid .hidetext {
   visibility:hidden;
@@ -1121,7 +1121,7 @@ div.pkp_controllers_grid .row_controls a {
   margin-right:20px;
   text-decoration:none;
   color:#777777;
-  font-size:90%;
+  font-size:95%;
 }
 div.pkp_controllers_grid .row_controls a:hover { text-decoration:underline; }
 div.pkp_controllers_grid a.focus { background-position:0 bottom; }
@@ -1135,11 +1135,11 @@ div.pkp_controllers_grid a.task {
   background-repeat:no-repeat;
   margin:0;
 }
-div.pkp_controllers_grid .grid_link_actions_below a { font-size:11px; }
+div.pkp_controllers_grid .grid_link_actions_below a { font-size:13px; }
 div.pkp_controllers_grid tr.alternate_row, div.pkp_controllers_grid tr.alternate_row .row_file { background-color:#f5f5f5; }
 div.pkp_controllers_grid th { color:#20538d; }
 div.pkp_controllers_grid a.task:hover { background-color:#efefef; }
-div.pkp_controllers_grid .ui-widget { font-size:.9em; }
+div.pkp_controllers_grid .ui-widget { font-size:1em; }
 div.pkp_controllers_grid .toggleDetailContainer { margin:20px 0 20px 0; }
 div.pkp_controllers_grid .toggleDetail {
   display:block;

@@ -17,15 +17,15 @@
 
 
 .ui-pnotify-title {
-	font-size: 0.8em;
+	font-size: 0.9em;
 }
 
 .ui-pnotify-text {
-	font-size: 0.6em;
+	font-size: 0.7em;
 }
 
 .ui-pnotify-history-container .ui-pnotify-history-header {
-	font-size: 0.8em;
+	font-size: 0.9em;
 }
 
 /**
@@ -93,8 +93,8 @@ a:hover {
  */
 
 #navbar a {
-	font-size: 0.65em;
-	letter-spacing: 0.05em;
+	font-size: 0.75em;
+	letter-spacing: 0.15em;
 }
 
 
@@ -134,19 +134,19 @@ table.announcements td.nodata {
 
 table.announcements td.headseparator {
 	border-top: 1px dotted #000;
-	font-size: 0.1em;
+	font-size: 0.2em;
 	line-height: 1%;
 }
 
 table.announcements td.endseparator {
 	border-top: 1px dotted #000;
-	font-size: 0.25em;
+	font-size: 0.35em;
 	line-height: 10%;
 }
 
 table.announcements td.separator {
 	border-top: 1px dotted #DDDDD0;
-	font-size: 0.1em;
+	font-size: 0.2em;
 	line-height: 1%;
 }
 
@@ -313,7 +313,7 @@ ol.editorialTeam, ol.editorialTeam li {
 pre {
 	background-color: #F0F0E8;
 	color: #000;
-	font-size: 1.25em;
+	font-size: 1.35em;
 }
 
 /**
@@ -448,7 +448,7 @@ ul.tagit li.tagit-choice .tagit-close .text-icon {
     display: none;
 }
 .ui-autocomplete .ui-menu-item a {
-	font-size: .6em;
+	font-size: .7em;
 }
 ul.tagit li.tagit-choice input {
 	display: block;

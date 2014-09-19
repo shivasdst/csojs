@@ -28,27 +28,27 @@
 
 div.commentTitle {
 
-	font-size: 1em;
+	font-size: 1.1em;
 	padding: 0;
 	padding-bottom: 5px;
 	border-bottom: 1px solid #999;
 }
 
 div.comments {
-	font-size: 1em;
+	font-size: 1.1em;
 	margin: 0;
 	margin-top: 5px;
 	margin-bottom: 5px;
 }
 
 div.commentRole {
-	font-size: 1em;
+	font-size: 1.1em;
 }
 
 div.commentDate {
-	font-size: 0.80em;
+	font-size: 0.90em;
 }
 
 div.commentNote {
-	font-size: 0.80em;
+	font-size: 0.90em;
 }

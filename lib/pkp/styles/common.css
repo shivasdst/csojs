@@ -32,7 +32,7 @@ p {
 table {
 	border: 0;
 	border-spacing: 0;
-	font-size: 1.0em;
+	font-size: 1.1em;
 }
 
 form {
@@ -53,7 +53,7 @@ ul {
 }
 
 tt {
-	font-size: 1.25em;
+	font-size: 1.35em;
 }
 
 label {
@@ -71,14 +71,14 @@ input.textField, select.selectMenu, textarea.textArea, input.uploadField {
 	border-left: 2px solid #666;
 	border-bottom: 2px solid #E8E8E1;
 	border-right: 2px solid #E8E8E1;
-	font-size: 1em;
+	font-size: 1.1em;
 }
 
 input.button {
 	padding-left: 0.5em;
 	padding-right: 0.5em;
 	background-color: #E8E8E1;
-	font-size: 1em;
+	font-size: 1.1em;
 }
 
 input.defaultButton {
@@ -158,14 +158,14 @@ input.defaultButton {
 
 #breadcrumb {
 	padding-top: 1em;
-	font-size: 0.7em;
+	font-size: 0.8em;
 }
 
 #content {
 	margin: 0;
 	padding: 0;
 	padding-top: 0.5em;
-	font-size: 0.7em;
+	font-size: 0.8em;
 	border-top: 2px dotted #000;
 }
 
@@ -174,21 +174,21 @@ input.defaultButton {
 	padding-top: 0.75em;
 	font-family: Georgia,'Times New Roman',Times,serif;
 	font-weight: normal;
-	font-size: 1.8em;
+	font-size: 1.9em;
 }
 
 #content h4 {
 	margin: .75em 1em 0.25em 0em;
 	font-family: Georgia,'Times New Roman',Times,serif;
 	font-weight: normal;
-	font-size: 1.5em;
+	font-size: 1.6em;
 }
 
 #content h5 {
 	margin: 0em 1em 0.25em 0em;
 	padding-top: 0.75em;
 	font-weight: bold;
-	font-size: 1em;
+	font-size: 1.1em;
 }
 
 
@@ -210,7 +210,7 @@ input.defaultButton {
  */
 
 #footer div.debugStats {
-	font-size: 0.6em;
+	font-size: 0.7em;
 }
 
 
@@ -223,7 +223,7 @@ span.disabled, label.disabled {
 }
 
 a.action, a.file {
-	font-size: 0.85em;
+	font-size: 0.95em;
 	text-transform: uppercase;
 }
 
@@ -241,11 +241,11 @@ a.icon:hover {
 
 span.formRequired {
 	color: #333;
-	font-size: 0.9em;
+	font-size: 1em;
 }
 
 span.heading {
-	font-size: 0.85em;
+	font-size: 0.95em;
 	text-transform: uppercase;
 }
 
@@ -278,7 +278,7 @@ table.listing td {
 }
 
 table.listing tr.heading td, table.listing td.heading, table.info td.heading {
-	font-size: 0.85em;
+	font-size: 0.95em;
 	text-transform: uppercase;
 	font-weight: normal;
 	padding: 0.75em 1.5em 1em 0.5em;
@@ -296,19 +296,19 @@ table.listing td.nodata, table.info td.nodata {
 
 table.listing td.headseparator {
 	border-top: 1px dotted #000;
-	font-size: 0.1em;
+	font-size: 0.2em;
 	line-height: 1%;
 }
 
 table.listing td.endseparator {
 	border-top: 1px dotted #000;
-	font-size: 0.25em;
+	font-size: 0.35em;
 	line-height: 10%;
 }
 
 table.listing td.separator, table.info td.separator {
 	border-top: 1px dotted #DDDDD0;
-	font-size: 0.1em;
+	font-size: 0.2em;
 	line-height: 1%;
 }
 
@@ -328,7 +328,7 @@ table.data td.value {
 
 table.data td.separator {
 	padding: 0.5em;
-	font-size: 0.1em;
+	font-size: 0.2em;
 	line-height: 1%;
 }
 
@@ -344,7 +344,7 @@ table.nested tr {
 
 span.nested {
 	padding: 0 4px 0 0;
-	font-size: 1.2em;
+	font-size: 1.3em;
 }
 
 /**
@@ -354,13 +354,13 @@ span.nested {
 span.pkp_form_error { /* Named for compatibility with new lessphp structure */
 	color: #900;
 	font-weight: bold;
-	font-size: 1em;
+	font-size: 1.1em;
 }
 
 span.pkp_form_success { /* Named for compatibility with new lessphp structure */
 	color: #090;
 	font-weight: bold;
-	font-size: 1em;
+	font-size: 1.1em;
 }
 
 ul.pkp_form_error_list { /* Named for compatibility with new lessphp structure */
@@ -389,7 +389,7 @@ ul.menu li.current {
 }
 
 ul.menu a {
-	font-size: 0.85em;
+	font-size: 0.95em;
 	text-transform: uppercase;
 	text-decoration: none;
 }
@@ -403,7 +403,7 @@ ul.steplist {
 ul.steplist li {
 	margin: 0;
 	padding: 0;
-	font-size: 0.85em;
+	font-size: 0.95em;
 	padding-right: 0.5em;
 	display: inline;
 	text-transform: uppercase;
@@ -444,6 +444,6 @@ div.separator {
 	margin-bottom: 0.25em;
 	padding: 0;
 	border-bottom: 1px dotted #000;
-	font-size: 0.5em;
+	font-size: 0.6em;
 	line-height: 25%;
 }
