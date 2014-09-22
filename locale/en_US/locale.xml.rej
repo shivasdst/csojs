@@ -1,0 +1,14 @@
+--- locale/en_US/locale.xml	2012-03-15 10:19:29.000000000 -0700
++++ locale/en_US/locale.xml	2013-03-04 15:53:15.000000000 -0800
+@@ -716,9 +717,9 @@
+ 	<message key="user.register.openAccessNotificationDescription">Notified by email when an issue of the journal is made open access.</message>
+ 	<message key="user.register.authorDescription">Able to submit items to the journal.</message>
+ 	<message key="user.register.reviewerDescriptionNoInterests">Willing to conduct peer review of submissions to the journal.</message>
+-	<message key="user.register.reviewerDescription">Willing to conduct peer review of submissions to the press.</message>
++	<message key="user.register.reviewerDescription">Willing to conduct peer review of submissions to the site.</message>
+ 	<message key="user.register.reviewerInterests">Identify reviewing interests (substantive areas and research methods):</message>
+-	
++
+ 	<!-- Subscriptions -->
+ 	<message key="user.subscriptions.mySubscriptions">My Subscriptions</message>
+ 	<message key="user.subscriptions.subscriptionStatus">Subscription Status</message>
