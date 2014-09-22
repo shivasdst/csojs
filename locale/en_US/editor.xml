@@ -174,8 +174,8 @@
 	<message key="editor.article.selectEditor">Select {$roleName}</message>
 	<message key="editor.article.selectDecision">Select decision</message>
 	<message key="editor.article.decision.accept">Accept Submission</message>
-	<message key="editor.article.decision.pendingRevisions">Revisions Required</message>
-	<message key="editor.article.decision.resubmit">Resubmit for Review</message>
+	<message key="editor.article.decision.pendingRevisions">Minor Revisions Required</message>
+	<message key="editor.article.decision.resubmit">Major Revisions Required</message>
 	<message key="editor.article.decision.decline">Decline Submission</message>
 	<message key="editor.article.selectLayoutEditor">Select Layout Editor</message>
 	<message key="editor.article.replaceLayoutEditor">Replace Layout Editor</message>

@@ -581,8 +581,8 @@ Active is how many reviews are currently being considered or underway.]]></messa
         <message key="reviewer.article.schedule.submitted">Review Submitted</message>
         <message key="reviewer.article.schedule.due">Review Due</message>
 	<message key="reviewer.article.decision.accept">Accept Submission</message>
-	<message key="reviewer.article.decision.pendingRevisions">Revisions Required</message>
-	<message key="reviewer.article.decision.resubmitHere">Resubmit for Review</message>
+	<message key="reviewer.article.decision.pendingRevisions">Minor Revisions Required</message>
+	<message key="reviewer.article.decision.resubmitHere">Major Revisions Required</message>
         <message key="reviewer.article.decision.resubmitElsewhere">Resubmit Elsewhere</message>
 	<message key="reviewer.article.decision.decline">Decline Submission</message>
 	<message key="reviewer.article.decision.seeComments">See Comments</message>
