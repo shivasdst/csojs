@@ -61,17 +61,18 @@ function deleteAttachment(fileId) {
 <table class="data" width="100%">
 {if $addressFieldsEnabled}
 <tr valign="top">
-	<td class="label" width="20%">{fieldLabel name="to" key="email.to"}</td>
-	<td width="80%" class="value">
-		{foreach from=$to item=toAddress}
-			<input type="text" name="to[]" id="to" value="{if $toAddress.name != ''}{$toAddress.name|escape} &lt;{$toAddress.email|escape}&gt;{else}{$toAddress.email|escape}{/if}" size="40" maxlength="120" class="textField" /><br/>
-		{foreachelse}
-			<input type="text" name="to[]" id="to" size="40" maxlength="120" class="textField" />
-		{/foreach}
-
 		{if $blankTo}
+			<td class="label" width="20%">{fieldLabel name="to" key="email.to"}</td>
 			<input type="text" name="to[]" id="to" size="40" maxlength="120" class="textField" />
 		{/if}
+	
+	<td width="80%" class="value">
+		{foreach from=$to item=toAddress}
+			<input type="hidden" name="to[]" id="to" value="{if $toAddress.name != ''}{$toAddress.name|escape} &lt;{$toAddress.email|escape}&gt;{else}{$toAddress.email|escape}{/if}" size="40" maxlength="120" class="textField" /><br/>
+		{foreachelse}
+			<input type="hidden" name="to[]" id="to" size="40" maxlength="120" class="textField" />
+		{/foreach}
+
 	</td>
 </tr>
 <tr valign="top">
