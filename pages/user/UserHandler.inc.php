@@ -63,6 +63,7 @@ class UserHandler extends Handler {
 				$setupIncomplete[$journalId] = $this->_checkIncompleteSetup($journal);
 
 				$roles =& $roleDao->getRolesByUserId($userId, $journalId);
+				
 				if (!empty($roles)) {
 					$userJournals[] =& $journal;
 					$this->_getRoleDataForJournal($userId, $journalId, $submissionsCount, $isValid);
@@ -76,6 +77,13 @@ class UserHandler extends Handler {
 
 		} else { // Currently within a journal's context.
 			$journalId = $journal->getId();
+			
+			$roles =& $roleDao->getRolesByUserId($userId, $journalId);
+			$roles_names = array();
+			foreach($roles as $role_item)
+			{
+				$roles_names[] =& $role_item->getRoleName($role_item->roleId,true);
+			}
 
 			// Determine if journal setup is incomplete, to provide a message for JM
 			$setupIncomplete[$journalId] = $this->_checkIncompleteSetup($journal);
@@ -111,6 +119,7 @@ class UserHandler extends Handler {
 		$templateMgr->assign('submissionsCount', $submissionsCount);
 		$templateMgr->assign('setupIncomplete', $setupIncomplete);
 		$templateMgr->assign('isSiteAdmin', $roleDao->getRole(0, $userId, ROLE_ID_SITE_ADMIN));
+		$templateMgr->assign('Roles_array', $roles_names);
 		$templateMgr->display('user/index.tpl');
 	}
 

@@ -14,6 +14,13 @@
 
 		{if $isUserLoggedIn}
 			<li id="userHome"><a href="{url journal="index" page="user"}">{translate key="navigation.userHome"}</a></li>
+			{if $Roles_array}
+				{foreach from=$Roles_array item=role}
+					{if $role == "user.role.author"}
+						<li id="authorFaqs"><a href="http://localhost/csojs/index.php/cs/pages/view/faqs">FAQs</a></li>
+					{/if}
+				{/foreach}
+			{/if}
 		{else}
 			<li id="login"><a href="{url page="login"}">{translate key="navigation.login"}</a></li>
 			{if !$hideRegisterLink}
