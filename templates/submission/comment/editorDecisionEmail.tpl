@@ -61,49 +61,48 @@ function deleteAttachment(fileId) {
 <table class="data" width="100%">
 {if $addressFieldsEnabled}
 <tr valign="top">
-		{if $blankTo}
-			<td class="label" width="20%">{fieldLabel name="to" key="email.to"}</td>
-			<input type="text" name="to[]" id="to" size="40" maxlength="120" class="textField" />
-		{/if}
-	
+	<td class="label" width="20%"></td>
 	<td width="80%" class="value">
 		{foreach from=$to item=toAddress}
 			<input type="hidden" name="to[]" id="to" value="{if $toAddress.name != ''}{$toAddress.name|escape} &lt;{$toAddress.email|escape}&gt;{else}{$toAddress.email|escape}{/if}" size="40" maxlength="120" class="textField" /><br/>
 		{foreachelse}
 			<input type="hidden" name="to[]" id="to" size="40" maxlength="120" class="textField" />
 		{/foreach}
-
+		{if $blankTo}
+			<input type="hidden" name="to[]" id="to" size="40" maxlength="120" class="textField" />
+		{/if}
 	</td>
+	
 </tr>
 <tr valign="top">
-	<td class="label">{fieldLabel name="cc" key="email.cc"}</td>
+	<td class="label"></td>
 	<td class="value">
 		{foreach from=$cc item=ccAddress}
-			<input type="text" name="cc[]" id="cc" value="{if $ccAddress.name != ''}{$ccAddress.name|escape} &lt;{$ccAddress.email|escape}&gt;{else}{$ccAddress.email|escape}{/if}" size="40" maxlength="120" class="textField" /><br/>
+			<input type="hidden" name="cc[]" id="cc" value="{if $ccAddress.name != ''}{$ccAddress.name|escape} &lt;{$ccAddress.email|escape}&gt;{else}{$ccAddress.email|escape}{/if}" size="40" maxlength="120" class="textField" /><br/>
 		{foreachelse}
-			<input type="text" name="cc[]" id="cc" size="40" maxlength="120" class="textField" />
+			<input type="hidden" name="cc[]" id="cc" size="40" maxlength="120" class="textField" />
 		{/foreach}
 
 		{if $blankCc}
-			<input type="text" name="cc[]" id="cc" size="40" maxlength="120" class="textField" />
+			<input type="hidden" name="cc[]" id="cc" size="40" maxlength="120" class="textField" />
 		{/if}
 	</td>
 </tr>
 <tr valign="top">
-	<td class="label">{fieldLabel name="bcc" key="email.bcc"}</td>
+	<td class="label"></td>
 	<td class="value">
 		{foreach from=$bcc item=bccAddress}
-			<input type="text" name="bcc[]" id="bcc" value="{if $bccAddress.name != ''}{$bccAddress.name|escape} &lt;{$bccAddress.email|escape}&gt;{else}{$bccAddress.email|escape}{/if}" size="40" maxlength="120" class="textField" /><br/>
+			<input type="hidden" name="bcc[]" id="bcc" value="{if $bccAddress.name != ''}{$bccAddress.name|escape} &lt;{$bccAddress.email|escape}&gt;{else}{$bccAddress.email|escape}{/if}" size="40" maxlength="120" class="textField" /><br/>
 		{foreachelse}
-			<input type="text" name="bcc[]" id="bcc" size="40" maxlength="120" class="textField" />
+			<input type="hidden" name="bcc[]" id="bcc" size="40" maxlength="120" class="textField" />
 		{/foreach}
 
 		{if $blankBcc}
-			<input type="text" name="bcc[]" id="bcc" size="40" maxlength="120" class="textField" />
+			<input type="hidden" name="bcc[]" id="bcc" size="40" maxlength="120" class="textField" />
 		{/if}
 	</td>
 </tr>
-<tr valign="top">
+<!--<tr valign="top">
 	<td></td>
 	<td class="value">
 		<input type="submit" name="blankTo" class="button" value="{translate key="email.addToRecipient"}"/>
@@ -114,7 +113,7 @@ function deleteAttachment(fileId) {
 			<input type="checkbox" name="bccSender" id="bccSender" value="1"{if $bccSender} checked{/if} />&nbsp;&nbsp;<label for="bccSender">{translate key="email.bccSender" address=$senderEmail|escape}</label>
 		{/if}
 	</td>
-</tr>
+</tr>-->
 {/if}{* addressFieldsEnabled *}
 
 {if $attachmentsEnabled}
