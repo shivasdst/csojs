@@ -82,7 +82,7 @@ class UserHandler extends Handler {
 			$roles_names = array();
 			foreach($roles as $role_item)
 			{
-				$roles_names[] =& $role_item->getRoleName($role_item->roleId,true);
+				$roles_names[] =& $role_item->getRoleName();
 			}
 
 			// Determine if journal setup is incomplete, to provide a message for JM
