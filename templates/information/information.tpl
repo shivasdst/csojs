@@ -11,7 +11,8 @@
 {include file="common/header.tpl"}
 {/strip}
 <div id="journalInfo">
-<p>{$content|nl2br}</p>
+<p>{$content|nl2br} <a href="http://localhost/csojs/index.php/cs/pages/view/faqs">FAQs (for Authors)</a></p>
+
 </div>
 {include file="common/footer.tpl"}
 
