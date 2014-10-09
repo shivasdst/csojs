@@ -186,6 +186,22 @@ class PKPMailTemplate extends Mail {
 		$user =& Request::getUser();
 		if ($user) {
 			$form->setData('senderEmail', $user->getEmail());
+			
+			$roleDao =& DAORegistry::getDAO('RoleDAO');
+			$userid = $user->getUserId();
+			$roles =& $roleDao->getRolesByUserId($userid);
+			$role_name = "";
+			$count_roles = 0;
+			foreach($roles as $role_item)
+			{
+				$role_name =& $role_item->getRoleName();
+				$count_roles++;
+			}	
+			if(($count_roles == 1) && ($role_name == "user.role.author"))
+			{
+				$form->setData('onlyAuthor', true);	
+			}
+
 			$form->setData('bccSender', $this->bccSender);
 		}
 
