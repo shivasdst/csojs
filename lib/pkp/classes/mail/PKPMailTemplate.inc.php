@@ -168,6 +168,11 @@ class PKPMailTemplate extends Mail {
 	function displayEditForm($formActionUrl, $hiddenFormParams = null, $alternateTemplate = null, $additionalParameters = array()) {
 		import('lib.pkp.classes.form.Form');
 		$form = new Form($alternateTemplate!=null?$alternateTemplate:'email/email.tpl');
+		
+		if(preg_match('/\/author\//',$formActionUrl))
+		{
+			$form->setData('onlyAuthor', true);
+		}
 
 		$form->setData('formActionUrl', $formActionUrl);
 		$form->setData('subject', $this->getSubject());
@@ -186,22 +191,6 @@ class PKPMailTemplate extends Mail {
 		$user =& Request::getUser();
 		if ($user) {
 			$form->setData('senderEmail', $user->getEmail());
-			
-			$roleDao =& DAORegistry::getDAO('RoleDAO');
-			$userid = $user->getUserId();
-			$roles =& $roleDao->getRolesByUserId($userid);
-			$role_name = "";
-			$count_roles = 0;
-			foreach($roles as $role_item)
-			{
-				$role_name =& $role_item->getRoleName();
-				$count_roles++;
-			}	
-			if(($count_roles == 1) && ($role_name == "user.role.author"))
-			{
-				$form->setData('onlyAuthor', true);	
-			}
-
 			$form->setData('bccSender', $this->bccSender);
 		}
 
