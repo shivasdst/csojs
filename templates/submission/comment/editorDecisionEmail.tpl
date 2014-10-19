@@ -112,7 +112,7 @@ function deleteAttachment(fileId) {
 		<input type="submit" name="blankBcc" class="button" value="{translate key="email.addBccRecipient"}"/>
 		{if $senderEmail}
 			<br/>
-			{$userid}&nbsp;<input type="checkbox" name="bccSender" id="bccSender" value="1"{if $bccSender} checked{/if} />&nbsp;&nbsp;<label for="bccSender">{translate key="email.bccSender" address=$senderEmail|escape}</label>
+			<input type="checkbox" name="bccSender" id="bccSender" value="1"{if $bccSender} checked{/if} />&nbsp;&nbsp;<label for="bccSender">{translate key="email.bccSender" address=$senderEmail|escape}</label>
 		{/if}
 	</td>
 </tr>
