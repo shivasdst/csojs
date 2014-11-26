@@ -21,6 +21,8 @@
 	height: 100%;
 }
 
+
+/*
 #leftSidebar {
 	float: left;
 	width: 14%;
@@ -33,12 +35,14 @@
 	overflow: hidden;
 }
 
+
 #main {
 	float: right;
 	width: 63%;
 	margin-right: 10%;
 	overflow: hidden;
 }
+*/
 
 /* Set main on non-IE browsers to have a 10% margin */
 *html #main {

@@ -22,6 +22,7 @@
 	width: 100%;
 }
 
+/*
 #rightSidebar {
 	float: right;
 	width: 14%;
@@ -31,9 +32,11 @@
 	margin-right: 10%;
 	margin-left: 2%;
 }
+*/
 
 * html #rightSidebar { margin-right: 5%; }
 
+/*
 #main {
 	float: left;
 	width: 63%;
@@ -41,3 +44,5 @@
 	display: inline;
 	overflow: hidden;
 }
+*/
+

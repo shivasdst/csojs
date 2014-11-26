@@ -15,10 +15,12 @@
 body {
 	margin: 0;
 	padding: 0;
+/*
 	background-color: #FBFBF3;
 	color: #111;
 	font-family: Verdana,Arial,Helvetica,sans-serif;
 	text-align: center;
+*/
 }
 
 div {
@@ -90,7 +92,7 @@ input.defaultButton {
 
 /**
  * Main layout elements
- */
+*/ 
 
 #container {
 	width: 100% !important;
@@ -98,6 +100,7 @@ input.defaultButton {
 	margin: 0px auto;
 	text-align: center;
 }
+
 
 #header {
 	width: 100%;
